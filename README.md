@@ -1,4 +1,4 @@
-Experiment one (done for YIM/MPV)/
-Establish the enviroment /
-Teaching a simple MFCC / LFCC model /
-Exctraxting Mel Spectogram /
+Experiment one for YIM/MPV)/
+Establishing the enviroment/
+Teaching a simple MFCC / LFCC model/
+Exctraxting Mel Spectogram/
